@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+margin: 1rem;
+}
+.hpart1{
+padding: 10px;
+margin: 10px;
+}
+.hpart2{
+  padding: 10px;
+  margin: 10px;
+}
+a{
+padding: 1rem;
+margin: 1rem;
+letter-spacing: 1px;
+border: 1px solid black;
+border-radius: 5px;
+}
+.dock{
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
